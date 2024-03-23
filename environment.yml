@@ -1,0 +1,11 @@
+name: bolt-bootcamp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair
+  - matplotlib
+  - python=3.11.5
+  - scikit-learn
+  - nb_conda_kernels=2.3.1
+prefix: C:\Users\Stephanie\miniconda3\envs\bolt-bootcamp
