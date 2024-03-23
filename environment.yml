@@ -1,0 +1,11 @@
+name: bolt-bootcamp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair==5.2.0
+  - matplotlib==3.8.3
+  - python=3.11.5
+  - jupyterlab=4.1.5
+  - scikit-learn==1.4.1
+  - nb_conda_kernels=2.3.1
